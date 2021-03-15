@@ -1,2 +1,4 @@
 co/com/koombea/automation/android/runners/RunnerTags.java
  co.com.koombea.automation.android.runners.RunnerTags
+co/com/koombea/automation/android/stepdefinitions/ConversionStepDefinitions.java
+ co.com.koombea.automation.android.stepdefinitions.ConversionStepDefinitions

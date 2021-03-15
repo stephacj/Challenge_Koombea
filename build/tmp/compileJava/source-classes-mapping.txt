@@ -1,0 +1,8 @@
+co/com/koombea/automation/android/utils/Hook.java
+ co.com.koombea.automation.android.utils.Hook
+co/com/koombea/automation/android/tasks/OpenThe.java
+ co.com.koombea.automation.android.tasks.OpenThe
+co/com/koombea/automation/android/userinterfaces/ApplicationElementsPage.java
+ co.com.koombea.automation.android.userinterfaces.ApplicationElementsPage
+co/com/koombea/automation/android/tasks/ChooseThe.java
+ co.com.koombea.automation.android.tasks.ChooseThe

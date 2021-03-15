@@ -9,7 +9,7 @@ import org.junit.runner.RunWith;
 
 @RunWith(CucumberWithSerenity.class)
 @CucumberOptions(features = "src/test/resources/features/conversion.feature",
-        glue = "co.com.koombea.automation.android.stepdefinitions",
+        glue = {"co.com.koombea.automation.android.stepdefinitions", "co.com.koombea.automation.android.utils"},
         snippets = SnippetType.CAMELCASE)
 class RunnerTags {
 
